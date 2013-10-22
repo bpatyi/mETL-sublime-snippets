@@ -1,6 +1,8 @@
 mETL Sublime Snippets
 =====================
 
+A collection of [Sublime Text](http://www.sublimetext.com/) snippets useful for writing [mETL](https://github.com/ceumicrodata/mETL?source=cc)
+
 ##Installation
 
 ### For Linux
