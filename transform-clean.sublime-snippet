@@ -5,6 +5,6 @@
   replaces:
     $1: $2 # many: 1+
 ]]></content>
-<tabTrigger>CleanTransform</tabTrigger>
+<tabTrigger>clean</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -10,6 +10,6 @@
 
 - statement: ENDIF
 ]]></content>
-<tabTrigger>ElifStatement</tabTrigger>
+<tabTrigger>elwithelse</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

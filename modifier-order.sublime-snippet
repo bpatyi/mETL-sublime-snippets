@@ -5,6 +5,6 @@
     - $1: $2 #ASC/DESC
     - $3: $4 
 ]]></content>
-<tabTrigger>Order</tabTrigger>
+<tabTrigger>order</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

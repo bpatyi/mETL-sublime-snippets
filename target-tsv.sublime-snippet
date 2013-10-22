@@ -9,6 +9,6 @@ target:
   appendFile: $5 #true/false
   #encoding:
 ]]></content>
-<tabTrigger>TargetTSV</tabTrigger>
+<tabTrigger>tsvtarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

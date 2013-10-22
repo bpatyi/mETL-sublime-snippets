@@ -2,6 +2,6 @@
 <content><![CDATA[
 - transform: UpperCase
 ]]></content>
-<tabTrigger>UpperCase</tabTrigger>
+<tabTrigger>uppercase</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

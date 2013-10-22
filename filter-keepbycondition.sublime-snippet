@@ -7,6 +7,6 @@
     - $3
   operation: $4 # AND/OR
 ]]></content>
-<tabTrigger>KeepByCondition</tabTrigger>
+<tabTrigger>keepbycondition</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

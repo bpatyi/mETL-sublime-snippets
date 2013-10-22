@@ -16,6 +16,6 @@
       type: $12
       map: $13
 ]]></content>
-<tabTrigger>Strip</tabTrigger>
+<tabTrigger>joinbykey</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

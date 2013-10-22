@@ -10,6 +10,6 @@ target:
   replaceTable: $5 #true/false
   truncateTable: $6 #true/false
 ]]></content>
-<tabTrigger>TargetDatabase</tabTrigger>
+<tabTrigger>dbtarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

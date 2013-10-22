@@ -15,6 +15,6 @@
       type: $10
       map: $11
 ]]></content>
-<tabTrigger>SetWithSource</tabTrigger>
+<tabTrigger>setwithsource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

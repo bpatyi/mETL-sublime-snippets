@@ -3,6 +3,6 @@
 - transform: Set
   value: $1 # '%(self)s or the new string'
 ]]></content>
-<tabTrigger>Set</tabTrigger>
+<tabTrigger>set</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

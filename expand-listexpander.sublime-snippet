@@ -4,6 +4,6 @@
   listFieldName: $1
   expandedFieldName: $2
 ]]></content>
-<tabTrigger>ListExpander</tabTrigger>
+<tabTrigger>listexpander</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

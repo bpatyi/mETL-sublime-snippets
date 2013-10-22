@@ -6,6 +6,6 @@
     - $2
   value: $3 # '%(district_roman)s string, %(district_copy)s%(name)s'
 ]]></content>
-<tabTrigger>Set</tabTrigger>
+<tabTrigger>setmodifier</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

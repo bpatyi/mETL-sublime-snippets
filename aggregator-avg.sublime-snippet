@@ -7,6 +7,6 @@
   targetFieldName: $3
   valueFieldName: $4
 ]]></content>
-<tabTrigger>Avg</tabTrigger>
+<tabTrigger>avg</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

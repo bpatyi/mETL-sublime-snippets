@@ -11,6 +11,6 @@
       type: $7
       map: $8
 ]]></content>
-<tabTrigger>RemoveWordsBySourceTransform</tabTrigger>
+<tabTrigger>removewordsbysource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -3,6 +3,6 @@
 - transform: Sub
   number: $1
 ]]></content>
-<tabTrigger>Sub</tabTrigger>
+<tabTrigger>sub</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -8,6 +8,6 @@
     $2: $3 # '1': null
     $4: $5
 ]]></content>
-<tabTrigger>MapTransform</tabTrigger>
+<tabTrigger>map</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

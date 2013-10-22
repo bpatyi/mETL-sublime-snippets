@@ -2,6 +2,6 @@
 <content><![CDATA[
 condition: IsEmpty
 ]]></content>
-<tabTrigger>IsEmpty</tabTrigger>
+<tabTrigger>isempty</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

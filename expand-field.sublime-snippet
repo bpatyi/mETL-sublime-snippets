@@ -7,6 +7,6 @@
   valueFieldName: $5
   labelFieldName: $6
 ]]></content>
-<tabTrigger>Field</tabTrigger>
+<tabTrigger>field</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

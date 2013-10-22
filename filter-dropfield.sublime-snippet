@@ -5,6 +5,6 @@
     - $1
     - $2
 ]]></content>
-<tabTrigger>DropField</tabTrigger>
+<tabTrigger>dropfield</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

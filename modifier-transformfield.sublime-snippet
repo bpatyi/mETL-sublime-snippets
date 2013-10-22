@@ -7,6 +7,6 @@
   transforms:
 
 ]]></content>
-<tabTrigger>TransformField</tabTrigger>
+<tabTrigger>transformfield</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

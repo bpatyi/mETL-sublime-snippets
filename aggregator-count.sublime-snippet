@@ -7,6 +7,6 @@
   targetFieldName: $3
   listFieldName: $4
 ]]></content>
-<tabTrigger>Count</tabTrigger>
+<tabTrigger>count</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

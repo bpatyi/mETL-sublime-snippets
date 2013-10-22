@@ -4,6 +4,6 @@ target:
   type: Static
   silence: $1 #true/false
 ]]></content>
-<tabTrigger>TargetStatic</tabTrigger>
+<tabTrigger>statictarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -3,6 +3,6 @@
 condition: IsGreaterAndEqual
 value: $1
 ]]></content>
-<tabTrigger>IsGreaterAndEqual</tabTrigger>
+<tabTrigger>isgreaterandequal</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

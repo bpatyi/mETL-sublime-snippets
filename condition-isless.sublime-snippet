@@ -3,6 +3,6 @@
 condition: IsLess
 value: $1
 ]]></content>
-<tabTrigger>IsLess</tabTrigger>
+<tabTrigger>isless</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -2,6 +2,6 @@
 <content><![CDATA[
 - transform: LowerCase
 ]]></content>
-<tabTrigger>LowerCaseTransform</tabTrigger>
+<tabTrigger>lowercase</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

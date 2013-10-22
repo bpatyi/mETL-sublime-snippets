@@ -5,6 +5,6 @@
   to: $2
   ignorecase: $3 #true/false
 ]]></content>
-<tabTrigger>ReplaceByRegexp</tabTrigger>
+<tabTrigger>replacebyregexp</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

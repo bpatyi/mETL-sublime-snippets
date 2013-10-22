@@ -3,6 +3,6 @@
 - transform: Strip
   chars: $1
 ]]></content>
-<tabTrigger>Strip</tabTrigger>
+<tabTrigger>strip</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -4,6 +4,6 @@ condition: IsBetween
 fromValue: $1
 toValue: $2
 ]]></content>
-<tabTrigger>IsBetween</tabTrigger>
+<tabTrigger>isbetween</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

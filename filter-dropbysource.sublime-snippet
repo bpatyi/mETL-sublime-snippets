@@ -14,6 +14,6 @@
       map: $10
   operation: $11 # AND/OR
 ]]></content>
-<tabTrigger>DropBySource</tabTrigger>
+<tabTrigger>dropbysource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

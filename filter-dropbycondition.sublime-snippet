@@ -7,6 +7,6 @@
     - $3
   operation: $4 # AND/OR
 ]]></content>
-<tabTrigger>DropByCondition</tabTrigger>
+<tabTrigger>dropbycondition</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

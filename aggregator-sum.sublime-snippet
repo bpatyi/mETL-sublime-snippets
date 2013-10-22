@@ -8,6 +8,6 @@
   valueFieldName: $4
   #listFieldName: $5
 ]]></content>
-<tabTrigger>Sum</tabTrigger>
+<tabTrigger>sum</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

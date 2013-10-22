@@ -23,6 +23,6 @@
   complexFieldName: $9 #LISTELEMENT
   map: $10 # 0/createAt
 ]]></content>
-<tabTrigger>SetWithMap</tabTrigger>
+<tabTrigger>setwithmap</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

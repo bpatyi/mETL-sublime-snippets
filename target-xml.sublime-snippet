@@ -8,6 +8,6 @@ target:
   #flat:
   #encoding:
 ]]></content>
-<tabTrigger>TargetXML</tabTrigger>
+<tabTrigger>xmltarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

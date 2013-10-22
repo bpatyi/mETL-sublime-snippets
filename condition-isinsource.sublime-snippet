@@ -9,6 +9,6 @@ fields:
   - name: $5
     type: $6
 ]]></content>
-<tabTrigger>IsInSource</tabTrigger>
+<tabTrigger>isinsource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

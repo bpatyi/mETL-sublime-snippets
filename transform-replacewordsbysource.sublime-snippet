@@ -12,6 +12,6 @@
       type: $8
       map: $9
 ]]></content>
-<tabTrigger>ReplaceWordsBySource</tabTrigger>
+<tabTrigger>replacewordsbysource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

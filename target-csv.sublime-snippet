@@ -8,6 +8,6 @@ target:
   addHeader: $4 #true/false
   appendFile: $5 #true/false
 ]]></content>
-<tabTrigger>TargetCsv</tabTrigger>
+<tabTrigger>csvtarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

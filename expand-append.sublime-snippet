@@ -7,6 +7,6 @@
   logFile: $4 # log.txt
   appendLog: $5 # true/false
 ]]></content>
-<tabTrigger>Append</tabTrigger>
+<tabTrigger>append</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

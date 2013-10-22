@@ -3,6 +3,6 @@
 - transform: Stem
   language: $1 #English
 ]]></content>
-<tabTrigger>Stem</tabTrigger>
+<tabTrigger>stem</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

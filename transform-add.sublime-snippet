@@ -3,6 +3,6 @@
 - transform: Add
   value: $1
 ]]></content>
-<tabTrigger>AddTransform</tabTrigger>
+<tabTrigger>add</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -12,6 +12,6 @@
 
 - statement: ENDIF
 ]]></content>
-<tabTrigger>IfWithElifStatement</tabTrigger>
+<tabTrigger>ifwithelif</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

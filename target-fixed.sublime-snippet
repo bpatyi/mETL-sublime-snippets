@@ -5,6 +5,6 @@ target:
   resource: $1
   #encoding: 
 ]]></content>
-<tabTrigger>TargetFixed</tabTrigger>
+<tabTrigger>fixedtarget</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

@@ -7,6 +7,6 @@
 
 - statement: ENDIF
 ]]></content>
-<tabTrigger>IfStatement</tabTrigger>
+<tabTrigger>if</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

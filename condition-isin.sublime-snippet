@@ -5,6 +5,6 @@ values:
   - $1
   - $2
 ]]></content>
-<tabTrigger>IsIn</tabTrigger>
+<tabTrigger>isin</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

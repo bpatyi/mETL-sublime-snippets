@@ -1,12 +1,15 @@
 <snippet>
 <content><![CDATA[
-- expand: Append
-  resource: $1 #example.json
-  encoding: $2 # iso-8859-2
-  skipIfFails: $3 # true/false
-  logFile: $4 # log.txt
-  appendLog: $5 # true/false
+- filter: AppendBySource
+  source: $1 #example.json
+  fields:
+    - name: $2
+      type: $3
+      map: $4
+    - name: $5
+      type: %6
+      map: $7
 ]]></content>
-<tabTrigger>Append</tabTrigger>
+<tabTrigger>appendbysource</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>

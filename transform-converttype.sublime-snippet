@@ -5,6 +5,6 @@
   hard: $2 #true/false
   defaultValue: $3 #true/false
 ]]></content>
-<tabTrigger>ConvertTypeTransform</tabTrigger>
+<tabTrigger>converttype</tabTrigger>
 <scope>source.yaml</scope>
 </snippet>
