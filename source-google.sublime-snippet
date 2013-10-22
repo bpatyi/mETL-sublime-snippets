@@ -1,0 +1,26 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: GoogleSpreadsheet
+  username: $1
+  password: $2
+  spreadsheetKey: $3
+  spreadsheetName: $4
+  worksheetId: $5
+  worksheetName: $6
+  fields:
+    - name: $7
+      type: $8
+      map: $9
+    - name: $10
+      type: $11
+      map: $12
+    - name: $13
+      type: $14
+      map: $15
+  defaultValues:
+    $16: $17
+]]></content>
+<tabTrigger>googlesource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

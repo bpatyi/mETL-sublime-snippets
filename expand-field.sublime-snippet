@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+- expand: Field
+  fieldNamesAndLabels
+    $1: $2
+    $3: $4
+  valueFieldName: $5
+  labelFieldName: $6
+]]></content>
+<tabTrigger>Field</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

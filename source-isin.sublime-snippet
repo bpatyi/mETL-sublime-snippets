@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+condition: IsInSource
+source: $1 #XLS
+resource: $2 #example/vins.yml
+rootIterator: $3 #vins
+join: $4 #vin
+fields:
+  - name: $5
+    type: $6
+]]></content>
+<tabTrigger>IsInSource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

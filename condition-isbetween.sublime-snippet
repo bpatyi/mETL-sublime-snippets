@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+condition: IsBetween
+fromValue: $1
+toValue: $2
+]]></content>
+<tabTrigger>IsBetween</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

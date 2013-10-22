@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+- modifier: Set
+  fn: $1
+  fieldNames:
+    - $2
+    - $3
+]]></content>
+<tabTrigger>SetWithFunction</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

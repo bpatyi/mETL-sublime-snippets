@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+- aggregator: Sum
+  fieldNames:
+    - $1
+    - $2
+  targetFieldName: $3
+  valueFieldName: $4
+  #listFieldName: $5
+]]></content>
+<tabTrigger>Sum</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: Static
+  silence: $1 #true/false
+]]></content>
+<tabTrigger>TargetStatic</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

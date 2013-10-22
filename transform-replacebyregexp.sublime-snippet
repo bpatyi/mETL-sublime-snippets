@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+- transform: ReplaceByRegexp
+  regexp: $1 # '^([0-9]{4}-[0-9]{2})-[0-9]{2}$'
+  to: $2
+  ignorecase: $3 #true/false
+]]></content>
+<tabTrigger>ReplaceByRegexp</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

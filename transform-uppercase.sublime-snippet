@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+- transform: UpperCase
+]]></content>
+<tabTrigger>UpperCase</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

@@ -1,0 +1,26 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: CSV
+  resource: $1.csv
+  delimiter: ${2:"|"|","}
+  headerRow: $3
+  skipRows: $4
+  encoding: "utf-8"
+  fields:
+    - name: $5
+      type: $6
+      map: $7
+    - name: $8
+      type: $9
+      map: $10
+    - name: $11
+      type: $12
+      map: $13
+  defaultValues:
+    $14: $15
+
+]]></content>
+<tabTrigger>csvsource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

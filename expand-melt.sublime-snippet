@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+- expand: Melt
+  fieldNames:
+    - $1
+    - $2
+  valueFieldName: $3
+  labelFieldName: $4
+]]></content>
+<tabTrigger>Melt</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

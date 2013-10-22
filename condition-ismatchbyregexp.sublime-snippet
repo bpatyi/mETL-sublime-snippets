@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+condition: IsMatchByRegexp
+regexp: $1 # '^.*[0-9]+.*$'
+ignorecase: $2 #true/false
+]]></content>
+<tabTrigger>IsMatchByRegexp</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

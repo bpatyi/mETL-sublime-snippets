@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+- transform: Homogenize
+]]></content>
+<tabTrigger>HomogenizeTransform</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

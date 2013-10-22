@@ -1,0 +1,24 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: Database
+  url: $1 #sqlite:///tests/test_sources/test_db_source.db
+  table: $2
+  #schema: $3
+  #statement: "select * from hello as h inner join world as w on h.id=w.hello_id where name='hello'"
+  fields:
+    - name: $4
+      type: $5
+      map: $6
+    - name: $7
+      type: $8
+      map: $9
+    - name: $10
+      type: $11
+      map: $12
+  defaultValues:
+    $13: $14
+]]></content>
+<tabTrigger>dbsource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

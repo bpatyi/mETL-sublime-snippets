@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+base: $1.yml
+]]></content>
+<tabTrigger>base</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

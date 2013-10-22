@@ -1,0 +1,19 @@
+<snippet>
+<content><![CDATA[
+- filter: DropBySource
+  join: $1 # ID
+  condition: $2
+  source: $3 # XLS
+  resource: $4 # exaple/example.xls
+  fields:
+    - name: $5
+      type: $6
+      map: $7
+    - name: $8
+      type: $9
+      map: $10
+  operation: $11 # AND/OR
+]]></content>
+<tabTrigger>DropBySource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

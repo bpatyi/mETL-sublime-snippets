@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: CSV
+  resource: $1
+  delimiter: $2 #default ,
+  qoute: $3 #default "
+  addHeader: $4 #true/false
+  appendFile: $5 #true/false
+]]></content>
+<tabTrigger>TargetCsv</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

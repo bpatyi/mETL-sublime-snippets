@@ -1,0 +1,14 @@
+<snippet>
+<content><![CDATA[
+- name: $1
+  type: Datetime
+  map: $2
+  finalType: $3
+  defaultValue: $4
+  limit: $5
+  nullable: $6
+  # $7 transforms:
+]]></content>
+<tabTrigger>datetimefield</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

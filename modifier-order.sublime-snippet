@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+- modifier: Order
+  fieldNamesAndOrder:
+    - $1: $2 #ASC/DESC
+    - $3: $4 
+]]></content>
+<tabTrigger>Order</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

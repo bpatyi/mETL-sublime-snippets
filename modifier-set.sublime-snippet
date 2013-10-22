@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+- modifier: Set
+  fieldNames:
+    - $1
+    - $2
+  value: $3 # '%(district_roman)s string, %(district_copy)s%(name)s'
+]]></content>
+<tabTrigger>Set</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

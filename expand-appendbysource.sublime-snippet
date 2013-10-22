@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+- expand: Append
+  resource: $1 #example.json
+  encoding: $2 # iso-8859-2
+  skipIfFails: $3 # true/false
+  logFile: $4 # log.txt
+  appendLog: $5 # true/false
+]]></content>
+<tabTrigger>Append</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

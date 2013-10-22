@@ -1,0 +1,28 @@
+<snippet>
+<content><![CDATA[
+# fields:
+#   - name: LISTITEMS
+#     map: response/tips/items*
+#     type: List
+#   - name: LISTELEMENT
+#     type: Complex
+#   - name: CREATEDAT
+#     type: Integer
+#   - name: TEXT
+#   - name: CATEGORIES
+#     type: List
+
+- expand: ListExpander
+  listFieldName: $1 # LISTITEMS
+  expandedFieldName: $2 # LISTELEMENT
+- modifier: SetWithMap
+  fieldNamesWithMap:
+    $3: $4 # CREATEDAT: createdAt
+    $5: $6 # TEXT: text
+    $7: $8 # CATEGORIES: venue/categories/*/id
+  complexFieldName: $9 #LISTELEMENT
+  map: $10 # 0/createAt
+]]></content>
+<tabTrigger>SetWithMap</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: XLS
+  resource: $1
+  addHeader: $2 #true/false
+  sheetName: $3
+  replaceFile: $4 #true/false
+  truncateSheet: $5 #true/false
+  dinamicSheetField: $6
+  #encoding:
+]]></content>
+<tabTrigger>TargetXLS</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

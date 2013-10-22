@@ -1,0 +1,20 @@
+<snippet>
+<content><![CDATA[
+- modifier: Set
+  fn: $1
+  fieldNames:
+    - $2
+    - $3
+  source: $4
+  resource: $5
+  fields:
+    - name: $6
+      type: $7
+      map: $8
+    - name: $9
+      type: $10
+      map: $11
+]]></content>
+<tabTrigger>SetWithSource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

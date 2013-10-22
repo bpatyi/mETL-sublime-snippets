@@ -1,0 +1,23 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: JSON
+  resource: $1.json
+  rootIterator: $2
+  encoding: $3 "utf-8"
+  fields:
+    - name: $4
+      type: $5
+      map: $6
+    - name: $7
+      type: $8
+      map: $9
+    - name: $10
+      type: $11
+      map: $12
+  defaultValues:
+    $13: $14
+]]></content>
+<tabTrigger>jsonsource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+- transform: Split
+  idx: $1 # '1:-1'
+  chars: $2 # ','
+]]></content>
+<tabTrigger>Split</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

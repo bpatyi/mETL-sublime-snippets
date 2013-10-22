@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+condition: IsEqual
+value: $1
+]]></content>
+<tabTrigger>IsEqual</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

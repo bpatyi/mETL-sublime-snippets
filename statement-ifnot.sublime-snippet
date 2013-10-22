@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+- statement: IFNOT
+  condition: $1
+
+  then: 
+
+- statement: ENDIF
+]]></content>
+<tabTrigger>IfNotStatement</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

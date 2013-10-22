@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+condition: IsIn
+values:
+  - $1
+  - $2
+]]></content>
+<tabTrigger>IsIn</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

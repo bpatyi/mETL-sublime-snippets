@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+- statement: IF
+  condition: $1
+
+  then:
+
+- statement: ELSE
+  then:
+
+- statement: ENDIF
+]]></content>
+<tabTrigger>ElifStatement</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

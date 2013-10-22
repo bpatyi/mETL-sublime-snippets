@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+- transform: ReplaceWordsBySource
+  join: $1 # ID
+  source: $2 # XLS
+  resource: $3 # example/example.xls
+  fields:
+    - name: $4 # ID
+      type: $5 # Integer
+      map: $6
+    - name: $7 # Value
+      type: $8
+      map: $9
+]]></content>
+<tabTrigger>ReplaceWordsBySource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

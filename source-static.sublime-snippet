@@ -1,0 +1,24 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: Static
+  sourceRecords:
+    - [ $1 ]
+    - [ $2 ]
+    - [ $3 ]
+  fields:
+    - name: $5
+      type: $6
+      map: $7
+    - name: $8
+      type: $9
+      map: $10
+    - name: $11
+      type: $12
+      map: $13
+  defaultValues:
+    $14: $15
+]]></content>
+<tabTrigger>staticsource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

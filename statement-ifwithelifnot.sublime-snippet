@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+- statement: IF
+  condition: $1
+
+  then:
+
+- statement: ELIFNOT
+  condition: $2
+
+  then:
+
+- statement: ENDIF
+]]></content>
+<tabTrigger>ElifNotStatement</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

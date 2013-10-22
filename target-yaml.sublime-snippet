@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: Yaml
+  resource: $1
+  rootIterator: $2
+  safe: $3
+  #flat:
+  #encoding:
+]]></content>
+<tabTrigger>TargetYaml</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

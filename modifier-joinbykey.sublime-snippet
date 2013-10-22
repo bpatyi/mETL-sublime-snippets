@@ -1,0 +1,21 @@
+<snippet>
+<content><![CDATA[
+- modifier: JoinByKey
+  source: $1 # XLS
+  resource: $2 # example/example.xls
+  itemName: $3 #agent
+  fieldNames:
+    - $4
+    - $5
+  fields:
+    - name: $7
+      type: $8
+      map: $9
+      key: $10
+    - name: $11
+      type: $12
+      map: $13
+]]></content>
+<tabTrigger>Strip</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

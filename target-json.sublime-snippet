@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: JSON
+  resource: $1
+  rootIterator: $2
+  #encoding: 
+]]></content>
+<tabTrigger>TargetJson</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

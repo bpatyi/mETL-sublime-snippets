@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: Database
+  url: $1
+  table: $2
+  #schema: 
+  addIdKey: $3 #true/false
+  createTable: $4 #true/false
+  replaceTable: $5 #true/false
+  truncateTable: $6 #true/false
+]]></content>
+<tabTrigger>TargetDatabase</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

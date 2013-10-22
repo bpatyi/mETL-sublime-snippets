@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: FixedWidthText
+  resource: $1
+  #encoding: 
+]]></content>
+<tabTrigger>TargetFixed</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

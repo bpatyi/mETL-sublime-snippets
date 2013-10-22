@@ -1,0 +1,26 @@
+<snippet>
+<content><![CDATA[
+source:
+  source: TSV
+  resource: $1.tsv
+  skipRows: $2
+  headerRow: $3
+  encoding: $4 "utf-8"
+  delimiter: $5 "\t"
+  quote: "
+  fields:
+    - name: $4
+      type: $5
+      map: $6
+    - name: $7
+      type: $8
+      map: $9
+    - name: $10
+      type: $11
+      map: $12
+  defaultValues:
+    $13: $14
+]]></content>
+<tabTrigger>tsvsource</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

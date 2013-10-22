@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+- transform: Clean
+  #stopChars: $3 # default: .,!?"
+  replaces:
+    $1: $2 # many: 1+
+]]></content>
+<tabTrigger>CleanTransform</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

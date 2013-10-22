@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+- filter: DropField
+  fieldNames:
+    - $1
+    - $2
+]]></content>
+<tabTrigger>DropField</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+target:
+  type: XML
+  resource: $1
+  itemName: $2
+  rootIterator: $3
+  #flat:
+  #encoding:
+]]></content>
+<tabTrigger>TargetXML</tabTrigger>
+<scope>source.yaml</scope>
+</snippet>
